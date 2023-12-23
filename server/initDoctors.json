@@ -1,0 +1,34 @@
+[
+    {
+        "hospitalId": "1",
+        "firstName": "Brick",
+        "lastName": "Wall",
+        "phoneNumber": "8936494977",
+        "emergPhoneNumber": "932847676",
+        "address": "13A Justice Dwarkanand Road, Kolkata-700030"
+    },
+    {
+        "hospitalId": "2",
+        "firstName": "Everhart",
+        "lastName": "Hall",
+        "phoneNumber": "9276333456",
+        "emergPhoneNumber": "8645340022",
+        "address": "4C Basant Bose Road, Kolkata-700040"
+    },
+    {
+        "hospitalId": "1",
+        "firstName": "Peter",
+        "lastName": "Leavitt",
+        "phoneNumber": "8937864977",
+        "emergPhoneNumber": "876847676",
+        "address": "13A Ballygunge Circular Road, Kolkata-700010"
+    },
+    {
+        "hospitalId": "2",
+        "firstName": "Jeremy",
+        "lastName": "Stone",
+        "phoneNumber": "8967440879",
+        "emergPhoneNumber": "9322846576",
+        "address": "43C Tilak Nagar, Kolkata-700038"
+    }
+]
